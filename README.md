@@ -5,9 +5,6 @@
 
 Here are some ideas to get you started:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={somaasahi}&theme=onedark
-)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={somaasahi}&theme=onedark)]
-(https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={somaasahi}&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=somaasahi&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/somaasahi/)
 
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somaasahi&layout=compact&theme=tokyonight)](https://github.com/somaasahi/)
