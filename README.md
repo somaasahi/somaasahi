@@ -1,4 +1,4 @@
-### Hi there 👋
+### Alcohol is like Photoshop for real life.
 
 <!--
 **somaasahi/somaasahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
