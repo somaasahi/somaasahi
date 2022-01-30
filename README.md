@@ -1,4 +1,4 @@
-### Alcohol is like Photoshop for real life.
+### career as an software engineer(2021/10~)
 
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=somaasahi&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/somaasahi/)
 
